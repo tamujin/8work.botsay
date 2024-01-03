@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8work.botsay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd80cfd5c4c78c098a12e4e71fc16e6c94603404")]
 [assembly: System.Reflection.AssemblyProductAttribute("8work.botsay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8work.botsay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

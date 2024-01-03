@@ -7,6 +7,7 @@ C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.Ge
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.AssemblyInfoInputs.cache
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.AssemblyInfo.cs
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.csproj.CoreCompileInputs.cache
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.sourcelink.json
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.dll
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\refint\8work.botsay.dll
 C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Debug\net8.0\8work.botsay.pdb
