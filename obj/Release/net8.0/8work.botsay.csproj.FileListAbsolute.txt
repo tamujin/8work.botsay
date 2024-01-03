@@ -1,0 +1,14 @@
+C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\8work.botsay.exe
+C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\8work.botsay.deps.json
+C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\8work.botsay.runtimeconfig.json
+C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\8work.botsay.dll
+C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\8work.botsay.pdb
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.AssemblyInfoInputs.cache
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.AssemblyInfo.cs
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.csproj.CoreCompileInputs.cache
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.dll
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\refint\8work.botsay.dll
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.pdb
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\8work.botsay.genruntimeconfig.cache
+C:\Users\dev429\source\DotnetTools\8work.botsay\obj\Release\net8.0\ref\8work.botsay.dll

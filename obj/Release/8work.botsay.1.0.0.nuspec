@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>8work.botsay</id>
+    <version>1.0.0</version>
+    <authors>8work.botsay</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\dev429\source\DotnetTools\8work.botsay\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\publish\8work.botsay.dll" target="tools\net8.0\any\8work.botsay.dll" />
+    <file src="C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\publish\8work.botsay.deps.json" target="tools\net8.0\any\8work.botsay.deps.json" />
+    <file src="C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\publish\8work.botsay.runtimeconfig.json" target="tools\net8.0\any\8work.botsay.runtimeconfig.json" />
+    <file src="C:\Users\dev429\source\DotnetTools\8work.botsay\bin\Release\net8.0\publish\8work.botsay.pdb" target="tools\net8.0\any\8work.botsay.pdb" />
+  </files>
+</package>
